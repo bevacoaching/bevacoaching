@@ -29,7 +29,7 @@ const Footer = () => {
             </a>
             <div className="flex items-center gap-3 text-primary-foreground/80">
               <MapPin className="w-5 h-5" />
-              32 rue d'Aboukir, 75002 Paris
+              99 rue du Cherche-Midi, 75006 Paris
             </div>
           </div>
         </div>

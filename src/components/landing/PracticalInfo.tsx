@@ -5,12 +5,12 @@ const infos = [
   {
     icon: MapPin,
     title: "Lieu des séances",
-    content: "32 rue d'Aboukir, 75002 Paris (présence d'un chat, prévoir antihistaminiques si besoin)"
+    content: "99 rue du Cherche-Midi, 75006 Paris (présence d'un chat, prévoir antihistaminiques si besoin)"
   },
   {
     icon: Video,
     title: "Séances en visio",
-    content: "Possibles sur demande via Google Meet"
+    content: "Via Google Meet"
   },
   {
     icon: Calendar,
@@ -30,7 +30,7 @@ const infos = [
   {
     icon: CreditCard,
     title: "Conditions de paiement",
-    content: "Paiement demandé avant le premier cours par virement ou liquide. Paiement en deux fois sans frais possible"
+    content: "Séances à la carte : paiement demandé avant le premier cours par virement ou liquide. Suivi régulier : paiement à réception de la facture à la fin de chaque mois ou pour le pack concerné"
   }
 ];
 
